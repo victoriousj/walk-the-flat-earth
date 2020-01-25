@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "880743e386a0be3c76f7a7e2528bf988",
+    "revision": "a4d2c05e97203d1ae05ea4504916724d",
     "url": "/walk-the-flat-earth/index.html"
   },
   {
-    "revision": "b622ac5654ac08b3cc2e",
-    "url": "/walk-the-flat-earth/static/css/main.d70ae273.chunk.css"
+    "revision": "68d7a8a7d3b727cd0e6b",
+    "url": "/walk-the-flat-earth/static/css/main.4993c708.chunk.css"
   },
   {
-    "revision": "0424684c39556cc6c07e",
-    "url": "/walk-the-flat-earth/static/js/2.ca0bf4ba.chunk.js"
+    "revision": "39f49920d2b7701355d9",
+    "url": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js"
   },
   {
     "revision": "e928fe768baa9832b5bc57eae021f30c",
-    "url": "/walk-the-flat-earth/static/js/2.ca0bf4ba.chunk.js.LICENSE"
+    "url": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js.LICENSE"
   },
   {
-    "revision": "b622ac5654ac08b3cc2e",
-    "url": "/walk-the-flat-earth/static/js/main.83496e34.chunk.js"
+    "revision": "68d7a8a7d3b727cd0e6b",
+    "url": "/walk-the-flat-earth/static/js/main.21ab6603.chunk.js"
   },
   {
     "revision": "1ebf3a3d1be37a9708f1",

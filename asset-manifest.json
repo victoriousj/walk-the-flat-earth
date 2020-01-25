@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/walk-the-flat-earth/static/css/main.d70ae273.chunk.css",
-    "main.js": "/walk-the-flat-earth/static/js/main.83496e34.chunk.js",
-    "main.js.map": "/walk-the-flat-earth/static/js/main.83496e34.chunk.js.map",
+    "main.css": "/walk-the-flat-earth/static/css/main.4993c708.chunk.css",
+    "main.js": "/walk-the-flat-earth/static/js/main.21ab6603.chunk.js",
+    "main.js.map": "/walk-the-flat-earth/static/js/main.21ab6603.chunk.js.map",
     "runtime-main.js": "/walk-the-flat-earth/static/js/runtime-main.729a6eb7.js",
     "runtime-main.js.map": "/walk-the-flat-earth/static/js/runtime-main.729a6eb7.js.map",
-    "static/js/2.ca0bf4ba.chunk.js": "/walk-the-flat-earth/static/js/2.ca0bf4ba.chunk.js",
-    "static/js/2.ca0bf4ba.chunk.js.map": "/walk-the-flat-earth/static/js/2.ca0bf4ba.chunk.js.map",
+    "static/js/2.d901516f.chunk.js": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js",
+    "static/js/2.d901516f.chunk.js.map": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js.map",
     "index.html": "/walk-the-flat-earth/index.html",
-    "precache-manifest.773b507bd1a3cbde71523d667b6bcb47.js": "/walk-the-flat-earth/precache-manifest.773b507bd1a3cbde71523d667b6bcb47.js",
+    "precache-manifest.cb3e38507aea85e2c0c4515715073650.js": "/walk-the-flat-earth/precache-manifest.cb3e38507aea85e2c0c4515715073650.js",
     "service-worker.js": "/walk-the-flat-earth/service-worker.js",
-    "static/css/main.d70ae273.chunk.css.map": "/walk-the-flat-earth/static/css/main.d70ae273.chunk.css.map",
-    "static/js/2.ca0bf4ba.chunk.js.LICENSE": "/walk-the-flat-earth/static/js/2.ca0bf4ba.chunk.js.LICENSE",
+    "static/css/main.4993c708.chunk.css.map": "/walk-the-flat-earth/static/css/main.4993c708.chunk.css.map",
+    "static/js/2.d901516f.chunk.js.LICENSE": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js.LICENSE",
     "static/media/earth.png": "/walk-the-flat-earth/static/media/earth.92b82e00.png",
     "static/media/logo.svg": "/walk-the-flat-earth/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.729a6eb7.js",
-    "static/js/2.ca0bf4ba.chunk.js",
-    "static/css/main.d70ae273.chunk.css",
-    "static/js/main.83496e34.chunk.js"
+    "static/js/2.d901516f.chunk.js",
+    "static/css/main.4993c708.chunk.css",
+    "static/js/main.21ab6603.chunk.js"
   ]
 }

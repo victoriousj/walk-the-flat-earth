@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/walk-the-flat-earth/precache-manifest.773b507bd1a3cbde71523d667b6bcb47.js"
+  "/walk-the-flat-earth/precache-manifest.cb3e38507aea85e2c0c4515715073650.js"
 );
 
 self.addEventListener('message', (event) => {
