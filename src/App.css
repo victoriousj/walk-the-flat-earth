@@ -4,34 +4,64 @@
   border: 0;
 }
 
+@font-face {
+  font-family: "PressStart2P-Regular";
+  src: url(./PressStart2P-Regular.ttf);
+}
+
 @media (prefers-reduced-motion: no-preference) {
-  .earth {
-    animation: rotate infinite 20s linear;
+  .world-container {
+    animation: rotate infinite 30s linear;
+  }
+  .us {
+    animation: us infinite 20s linear;
   }
 }
 
 @keyframes rotate {
   from {
-    transform: perspective(900px) rotateX(70deg) rotate(0deg);
+    transform: rotate(0deg);
   }
   to {
-    transform: perspective(900px) rotateX(70deg) rotate(360deg);
+    transform: rotate(360deg);
   }
+}
+
+@keyframes us {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.App {
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.message {
+  text-align: center;
+  margin-top: 5vh;
+  font-size: 2rem;
 }
 
 body {
   background-color: #000522;
+  font-family: "PressStart2P-Regular", monospace;
+  user-select: none;
   overflow: hidden;
   height: 100vh;
   width: 100vw;
-  display: flex;
-  justify-content: center;
-  align-items: center;
+  color: white;
 }
 
 .world-container {
-  height: 100vh;
-  width: 100vh;
+  height: 100vw;
+  width: 100vw;
+  position: relative;
 }
 
 .earth {
@@ -40,4 +70,36 @@ body {
   background-repeat: no-repeat;
   background-position: right top;
   background-size: contain;
+  background-image: url("./earth.png");
+}
+
+.us {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+
+.rainbow {
+  height: 5%;
+  width: 5%;
+  background-color: yellow;
+  position: absolute;
+  top: 50%;
+  left: 0%;
+  z-index: 2;
+  border-radius: 50%;
+}
+
+.robin {
+  height: 5%;
+  width: 5%;
+  background-color: yellow;
+  position: absolute;
+  top: 50%;
+  left: 95%;
+  z-index: 2;
+  border-radius: 50%;
 }

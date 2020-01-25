@@ -25,9 +25,22 @@ export const LgStarSC = styled(StarSC)`
   height: 3px;
 `;
 
+export const WorldContainer = styled.div`
+  margin: 10vh auto;
+  height: ${window.innerHeight > window.innerWidth ? "80vw" : "80vh"};
+  width: ${window.innerHeight > window.innerWidth ? "80vw" : "80vh"};
+  position: relative;
+  animation: rotate infinite 60s;
+`;
+
 // Stars and Enemies will use this to go from end to end
 // of the Container
 const moveY = keyframes`
   0%    { transform: translateY(-100px);  }
   100%  { transform: translateY(${window.innerHeight}px);   }
+`;
+
+const rotate = keyframes`
+  0%    { transform: translateY(-100px);  }
+  100%  { transform: translateY(950px);   }
 `;
