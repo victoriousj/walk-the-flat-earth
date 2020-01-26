@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/walk-the-flat-earth/static/css/main.4993c708.chunk.css",
-    "main.js": "/walk-the-flat-earth/static/js/main.21ab6603.chunk.js",
-    "main.js.map": "/walk-the-flat-earth/static/js/main.21ab6603.chunk.js.map",
+    "main.css": "/walk-the-flat-earth/static/css/main.32f14f68.chunk.css",
+    "main.js": "/walk-the-flat-earth/static/js/main.b29abf62.chunk.js",
+    "main.js.map": "/walk-the-flat-earth/static/js/main.b29abf62.chunk.js.map",
     "runtime-main.js": "/walk-the-flat-earth/static/js/runtime-main.729a6eb7.js",
     "runtime-main.js.map": "/walk-the-flat-earth/static/js/runtime-main.729a6eb7.js.map",
-    "static/js/2.d901516f.chunk.js": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js",
-    "static/js/2.d901516f.chunk.js.map": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js.map",
+    "static/js/2.ac1afb96.chunk.js": "/walk-the-flat-earth/static/js/2.ac1afb96.chunk.js",
+    "static/js/2.ac1afb96.chunk.js.map": "/walk-the-flat-earth/static/js/2.ac1afb96.chunk.js.map",
     "index.html": "/walk-the-flat-earth/index.html",
-    "precache-manifest.cb3e38507aea85e2c0c4515715073650.js": "/walk-the-flat-earth/precache-manifest.cb3e38507aea85e2c0c4515715073650.js",
+    "precache-manifest.18e87ba28e4db68a96d753c9f36a5c7e.js": "/walk-the-flat-earth/precache-manifest.18e87ba28e4db68a96d753c9f36a5c7e.js",
     "service-worker.js": "/walk-the-flat-earth/service-worker.js",
-    "static/css/main.4993c708.chunk.css.map": "/walk-the-flat-earth/static/css/main.4993c708.chunk.css.map",
-    "static/js/2.d901516f.chunk.js.LICENSE": "/walk-the-flat-earth/static/js/2.d901516f.chunk.js.LICENSE",
-    "static/media/earth.png": "/walk-the-flat-earth/static/media/earth.92b82e00.png",
-    "static/media/logo.svg": "/walk-the-flat-earth/static/media/logo.5d5d9eef.svg"
+    "static/css/main.32f14f68.chunk.css.map": "/walk-the-flat-earth/static/css/main.32f14f68.chunk.css.map",
+    "static/js/2.ac1afb96.chunk.js.LICENSE": "/walk-the-flat-earth/static/js/2.ac1afb96.chunk.js.LICENSE",
+    "static/media/App.css": "/walk-the-flat-earth/static/media/robina.81d5b260.png"
   },
   "entrypoints": [
     "static/js/runtime-main.729a6eb7.js",
-    "static/js/2.d901516f.chunk.js",
-    "static/css/main.4993c708.chunk.css",
-    "static/js/main.21ab6603.chunk.js"
+    "static/js/2.ac1afb96.chunk.js",
+    "static/css/main.32f14f68.chunk.css",
+    "static/js/main.b29abf62.chunk.js"
   ]
 }
