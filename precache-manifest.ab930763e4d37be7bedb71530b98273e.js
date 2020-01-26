@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2d560e565db9ae6b913e028f7c8c9c54",
+    "revision": "4807d35fe5fe27211a3e99279596f14f",
     "url": "/walk-the-flat-earth/index.html"
   },
   {
-    "revision": "94d2d39f7c7468e02602",
+    "revision": "3c543b16d9922a775897",
     "url": "/walk-the-flat-earth/static/css/main.331c90df.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/walk-the-flat-earth/static/js/2.ac1afb96.chunk.js.LICENSE"
   },
   {
-    "revision": "94d2d39f7c7468e02602",
-    "url": "/walk-the-flat-earth/static/js/main.b29abf62.chunk.js"
+    "revision": "3c543b16d9922a775897",
+    "url": "/walk-the-flat-earth/static/js/main.36c80590.chunk.js"
   },
   {
     "revision": "1ebf3a3d1be37a9708f1",
